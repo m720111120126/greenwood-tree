@@ -1,0 +1,19 @@
+;下面的注释包含自解压脚本命令
+
+Update=U
+Title=绿杉树安装
+Text
+{
+安装绿杉树（红杉树第三方客户端）
+}
+License=最终用户许可协议书
+{
+所有版权均属于作者所专有。
+
+此程序是共享软件，任何人在测试期限内均可以使用此软件。
+
+在测试期限过后，您“必须”删除。
+}
+Shortcut=D, 绿杉树/start.vbs, , 绿杉树, 绿杉树, 绿杉树/favicon.ico
+Shortcut=P, 绿杉树/start.vbs, 绿杉树, 绿杉树, 绿杉树, 绿杉树/favicon.ico
+Shortcut=P, 绿杉树/卸载.bat, 绿杉树, 卸载绿杉树, 卸载绿杉树, 绿杉树/favicon.ico
